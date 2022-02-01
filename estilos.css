@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(207, 217, 223, 0.404) 0%, rgba(226, 235, 240, 0.404) 100%), url(/img/five-nights-at-freddy-s-video-games-wallpaper-preview.jpg);
+    background-image: linear-gradient(to top, rgba(207, 217, 223, 0.404) 0%, rgba(226, 235, 240, 0.404) 100%), url(img/five-nights-at-freddy-s-video-games-wallpaper-preview.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
